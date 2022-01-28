@@ -1,0 +1,201 @@
+Requesting airdrop of 500 SAFE
+
+Signature: 3naGkmBZdscEa4TitxqhpsMChwTYCAYZ971yizvrAfSSofcAeF6fzwRK7gnkvnQ6QEtkezBU2oGN5oi3NSU82XRi
+
+1235.70239756 SAFE
+skip
+AaACXpmVyNpowJcMG6GK3x6R6oPsGv31V48izvLN44mc / Bbw9wHcUJE1xeCheooReZREqGuphWnCdv9ueNQLZDVm2
+Creating coin vault...
+Created account: GmTwrVhrFRQbRzMWV9ofBMroz8rAnePn5CQ2t7FH6djo ...
+Creating pc vault...
+Created account: H7QT49dATLRc2BiTXNUMLy4VuEbydh3uU5KgNFsNN8aq ...
+Listing 545TZJYmJXajYP2rpdGYJktjK5rrE47bFdNjWST75BYa ...
+Listed market: MarketPubkeys {
+    market: 545TZJYmJXajYP2rpdGYJktjK5rrE47bFdNjWST75BYa,
+    req_q: YfFYAkkkGqaLNbAMj9k38dqYQdPk4zRKHefN9iCdaqk,
+    event_q: EK5Pjx3XjCe46eZTxyaHmJYfNbuYwr5YbcdxNvmzJkT2,
+    bids: Gp5XDQ7k7NXaTVoDPsVEYQU4NhoH2YzZn9y4WhjVDwcU,
+    asks: 69QyzX9cJG94e5Qeb8CPhK7DKaz2o4RZjbaZ5GM4uLU1,
+    coin_vault: GmTwrVhrFRQbRzMWV9ofBMroz8rAnePn5CQ2t7FH6djo,
+    pc_vault: H7QT49dATLRc2BiTXNUMLy4VuEbydh3uU5KgNFsNN8aq,
+    vault_signer_key: DMPXPpi56zkcNYduEbk8umNYdcbYygSzws94zwb1fo4z,
+}
+AaACXpmVyNpowJcMG6GK3x6R6oPsGv31V48izvLN44mc / SRmaJesFc3feD9WxoHg85oLA443b5g8G6qPnQgUvbhC
+Creating coin vault...
+Created account: CZDGBKGUXKWbwyqPCDvX7NMcAtUFbxJg5szWf3z7btxZ ...
+Creating pc vault...
+Created account: 3797qYGBMGjaGYjdd6ttHp71repHtRjMh1YHb1VaDJ31 ...
+Listing SeXds16dCrihSbbeqaNdLgZfaXRzRyfdCEt7DAbfWyq ...
+Listed market: MarketPubkeys {
+    market: SeXds16dCrihSbbeqaNdLgZfaXRzRyfdCEt7DAbfWyq,
+    req_q: A14kMsmxXhfqxF3dcF1dMdHcQU3hJWDXQ2CyRDC6iJgS,
+    event_q: 8rQk5WLQitFqj2MUfCckN2a7kE9RDfB1hLfKo53ucgGv,
+    bids: A21apMQCJg97WBH4GU1mBztvGpin9Dto5vUVwT4YEzYm,
+    asks: 7agGEBf2FVRWKzaMPMg2XJWBmqVa8UbvTQxQztPoZnX3,
+    coin_vault: CZDGBKGUXKWbwyqPCDvX7NMcAtUFbxJg5szWf3z7btxZ,
+    pc_vault: 3797qYGBMGjaGYjdd6ttHp71repHtRjMh1YHb1VaDJ31,
+    vault_signer_key: 96fcPpNTKJ6jNKuYBpCq22dYyjGDWH7kXz4ES4KQ9uaJ,
+}
+AaACXpmVyNpowJcMG6GK3x6R6oPsGv31V48izvLN44mc / msmUmQ7BEftBi5DLUL5Vwk46HcMGjVNdNuAJcX8vELy
+Creating coin vault...
+Created account: 3vDJxzMcP4vbTYyTtwweLYaP8wCzNQ1ir6vfJWkq7SYJ ...
+Creating pc vault...
+Created account: 6nQGiwDipoghhBwWEnfSruJQGaz63RDudPBBTVPFpehw ...
+Listing e8JAJFb8Dwbo5MahZVZR5oVbTLJLqapsALEo8zYouHk ...
+Listed market: MarketPubkeys {
+    market: e8JAJFb8Dwbo5MahZVZR5oVbTLJLqapsALEo8zYouHk,
+    req_q: G1uD9UQVJzsdjUb44qqgCfGoXZyhjeBSDG2oVgwFYPDq,
+    event_q: AxDEfJPxmBdpCrASBy8XqsnVDZxoSu16uxg5rtUAEyTE,
+    bids: HVjtxdtAF8Ef5cERyiZHdp8C2TGqBFQ3cmCCheR4FWN,
+    asks: 5RJAESPbohZfjPEkgpQVR5E2GBUhKJL4Bjf48WQshWNW,
+    coin_vault: 3vDJxzMcP4vbTYyTtwweLYaP8wCzNQ1ir6vfJWkq7SYJ,
+    pc_vault: 6nQGiwDipoghhBwWEnfSruJQGaz63RDudPBBTVPFpehw,
+    vault_signer_key: 6vY1H1CvV8zkC55V1vfd7K1kQkAVqxKWSV25398Wa3hv,
+}
+Bbw9wHcUJE1xeCheooReZREqGuphWnCdv9ueNQLZDVm2 / AaACXpmVyNpowJcMG6GK3x6R6oPsGv31V48izvLN44mc
+Creating coin vault...
+Created account: 7Kr89cTS8LtK3dRwijHtfrvV58QgksmYo83upVUMvdam ...
+Creating pc vault...
+Created account: 8jNmmxpHwkTJAeMic1PSGFqt4yA3KzCNze8QDW537Mjn ...
+Listing 63fd645N418TVMHdkK1kAwp6EeZGPGbzNJ4A413mGocr ...
+Listed market: MarketPubkeys {
+    market: 63fd645N418TVMHdkK1kAwp6EeZGPGbzNJ4A413mGocr,
+    req_q: 7ywBsEkK56PBhBzj3mMZLg5hKbDodW9yWvMtijdVqy2Y,
+    event_q: J9nxDwpuvto11s4x8wSdwx3UqSjrqwCypWhDAhaQSFKu,
+    bids: FBifuTDhxqC2S1Jn9Wb5oXZpEYxYUk6tNdP96CdK5YCc,
+    asks: CVQvnWfDhtaivfeWh49WFz7SJfT51JKrWyU4SG3XuTbD,
+    coin_vault: 7Kr89cTS8LtK3dRwijHtfrvV58QgksmYo83upVUMvdam,
+    pc_vault: 8jNmmxpHwkTJAeMic1PSGFqt4yA3KzCNze8QDW537Mjn,
+    vault_signer_key: AAAVHKauU628SKpRKr9H5zxx7e66epXWuTLJffWb4Wyv,
+}
+skip
+Bbw9wHcUJE1xeCheooReZREqGuphWnCdv9ueNQLZDVm2 / SRmaJesFc3feD9WxoHg85oLA443b5g8G6qPnQgUvbhC
+Creating coin vault...
+Created account: F9gj9YxGhPhBz7yDtXSUVC4CRJi2qdbhinAH14mseny7 ...
+Creating pc vault...
+Created account: 4HWop1jCbwgPjArJ9SGfHfh6uttj8n66mwKjBdL3tPQu ...
+Listing A297xFhUFfhQymBaGaxTn1UHUvHpEH55mce17Bf545y6 ...
+Listed market: MarketPubkeys {
+    market: A297xFhUFfhQymBaGaxTn1UHUvHpEH55mce17Bf545y6,
+    req_q: 5nUWrF6Rv6dnYm526Yd7Ncp17ooQYCd14hhGD5sHVAET,
+    event_q: HcWo3Ek57cHDPLyN9DJfAx5e3oB6YxjyXxp3bWQf8vGH,
+    bids: 257NR6tdnXgnB3nLSV65XhDKRePLZRBuYDK2LgR4SLhg,
+    asks: 2uFSWb2rLUF2PTmHjS2uKJgG58ViTFwUiBQMNzaNQrnH,
+    coin_vault: F9gj9YxGhPhBz7yDtXSUVC4CRJi2qdbhinAH14mseny7,
+    pc_vault: 4HWop1jCbwgPjArJ9SGfHfh6uttj8n66mwKjBdL3tPQu,
+    vault_signer_key: Hti631RgYqs5jZcSxLf3gZq9DB7oqHfYD1eLvn5Aj1jP,
+}
+Bbw9wHcUJE1xeCheooReZREqGuphWnCdv9ueNQLZDVm2 / msmUmQ7BEftBi5DLUL5Vwk46HcMGjVNdNuAJcX8vELy
+Creating coin vault...
+Created account: BAsZgKAUJDVbAAPp72u98Z7fHoMs4Ng4u5yZQEvVX7ME ...
+Creating pc vault...
+Created account: 7HS6ngsVNR7SwH7zorEHji578md4MqjEPCQbJfP99eyH ...
+Listing 31gMapEpKGW4oKMYHS6G4q6wDkhokqeVngc82czycvDx ...
+Listed market: MarketPubkeys {
+    market: 31gMapEpKGW4oKMYHS6G4q6wDkhokqeVngc82czycvDx,
+    req_q: FHBg416mdsNkvRKheLpcgxnXvxA2KeK8VsJ3QzgmaKdQ,
+    event_q: GmzGWmWHYMjsQGseuGZAh6FC4K1oyvoyTCLigWB9G5M6,
+    bids: 2zWYsYa7RTmQPke9PxK2ucR6sGGDsjbV43jTERuh7RM3,
+    asks: BidksQWr8Fqs6P1wBPHrnQLESF1yMHJTPjVB5mXN9RXC,
+    coin_vault: BAsZgKAUJDVbAAPp72u98Z7fHoMs4Ng4u5yZQEvVX7ME,
+    pc_vault: 7HS6ngsVNR7SwH7zorEHji578md4MqjEPCQbJfP99eyH,
+    vault_signer_key: 4cnWSfoxGfEhcaj2QNUqMCYs3xKhQxuxcunfbCRNQ2xJ,
+}
+SRmaJesFc3feD9WxoHg85oLA443b5g8G6qPnQgUvbhC / AaACXpmVyNpowJcMG6GK3x6R6oPsGv31V48izvLN44mc
+Creating coin vault...
+Created account: 5P2juDG6Qo7vqNHkZn2Ajsz8GWYgiQsqemsgY8sxd6ef ...
+Creating pc vault...
+Created account: DAMFUfkfqrMTNtpxQHhVVDF6oWZomN3oCjjrAF9VzsoM ...
+Listing Am1QXTHPdZgDMUVzG2xAfLaPbt5TBGxHyRKihJGnPxWk ...
+Listed market: MarketPubkeys {
+    market: Am1QXTHPdZgDMUVzG2xAfLaPbt5TBGxHyRKihJGnPxWk,
+    req_q: GHcpqPCTqADZ2jf6vnpVw8kzYge1pyrVD9Ybxq7wmct9,
+    event_q: C4pwpM2N333dgM9etUjvitwsdhRCyaKb6S3qh6r1Mh2t,
+    bids: DCZJmBG3MLKgrjQ4EprZsMgz7Ydt6zbKVQ1PvPsfy64H,
+    asks: BAB4UN9DPLNCnctiUkZQ7g5xNh6G2KR6fMS1kzedf6hk,
+    coin_vault: 5P2juDG6Qo7vqNHkZn2Ajsz8GWYgiQsqemsgY8sxd6ef,
+    pc_vault: DAMFUfkfqrMTNtpxQHhVVDF6oWZomN3oCjjrAF9VzsoM,
+    vault_signer_key: 7HMai6UyXS6MmAmjzdbgzMamocg4cz9axaJak2fpvFMA,
+}
+SRmaJesFc3feD9WxoHg85oLA443b5g8G6qPnQgUvbhC / Bbw9wHcUJE1xeCheooReZREqGuphWnCdv9ueNQLZDVm2
+Creating coin vault...
+Created account: JCXoHNjy6jhoNBp1A22ZXQe35ZxQJcYccsW4Pp2WWLms ...
+Creating pc vault...
+Created account: APVqJ2234dq21zKjYzkyW8GA3uVXfRP8RQnuC8BarSnz ...
+Listing D1f76TShgGcaKCvEXEFMxH4zaV2uKu2rWhm1NTNV5rYE ...
+Listed market: MarketPubkeys {
+    market: D1f76TShgGcaKCvEXEFMxH4zaV2uKu2rWhm1NTNV5rYE,
+    req_q: 2RHGcNPacYSr3ydYAegmJNSPkzQfXMJAv4ZTLT7NbVAz,
+    event_q: 3AGSKyKfoPiC8GYSzsU91bXmpWGrxXRxtqn71dVrjW2B,
+    bids: 8qsfEiUHDeJtqN9hEkh7ibhHcw88YPTRtHx1JSRHXC3a,
+    asks: 5VGL9MJnePGY7AHC47nsQiVXH6VYpw2AdWhAX9Khjg6n,
+    coin_vault: JCXoHNjy6jhoNBp1A22ZXQe35ZxQJcYccsW4Pp2WWLms,
+    pc_vault: APVqJ2234dq21zKjYzkyW8GA3uVXfRP8RQnuC8BarSnz,
+    vault_signer_key: 4A9XmX9vm5xCtYeE11vxLepvPa2pf1Up4KeQpY1HjwVz,
+}
+skip
+SRmaJesFc3feD9WxoHg85oLA443b5g8G6qPnQgUvbhC / msmUmQ7BEftBi5DLUL5Vwk46HcMGjVNdNuAJcX8vELy
+Creating coin vault...
+Created account: CEXaqBJuMo1uMn7mPJHzgFCjsLFL4hEuG23kd7AhdLF4 ...
+Creating pc vault...
+Created account: izeDNPYRRiB17u1XsS6rHUsaZVT7SjBkhUcu6z2XKLx ...
+Listing 3doV5W6CD1yE6GJM35QhN8ZKhPEiisymiZ6Wn8THcbyp ...
+Listed market: MarketPubkeys {
+    market: 3doV5W6CD1yE6GJM35QhN8ZKhPEiisymiZ6Wn8THcbyp,
+    req_q: J7xEPrkH4KPqaKaAnnLgTW43B1oMTkSveowxkXosDVu7,
+    event_q: JEHd3vp6SmtzpJN3UaBxxy5bREadZv7xNcw1LWw82kms,
+    bids: AyipVhYMUN3Vq4vR2h3jV5ndawSQMQUnSx5WWSxpRvCP,
+    asks: AwQNvuUMwtwjmeoi5scsa75xPJdj9xuV9BggTvc5EWf6,
+    coin_vault: CEXaqBJuMo1uMn7mPJHzgFCjsLFL4hEuG23kd7AhdLF4,
+    pc_vault: izeDNPYRRiB17u1XsS6rHUsaZVT7SjBkhUcu6z2XKLx,
+    vault_signer_key: 8gvjoyoiXWvUrzhgmnXrgCHDxYq1St8R6MJqabcsuAcy,
+}
+msmUmQ7BEftBi5DLUL5Vwk46HcMGjVNdNuAJcX8vELy / AaACXpmVyNpowJcMG6GK3x6R6oPsGv31V48izvLN44mc
+Creating coin vault...
+Created account: 8KAcv2g6H2PCLwKqkXVWzXfjcYmhHycWy8pxGGmXJoB9 ...
+Creating pc vault...
+Created account: DKDAfag8yyG4cxfiaSDonCcDsu7oFVnkZ7Xcy9sR4LVz ...
+Listing 5VX2iLyaG67bS3VseCVrBaYzHVURNQ3y6xpAhAeVtW7h ...
+Listed market: MarketPubkeys {
+    market: 5VX2iLyaG67bS3VseCVrBaYzHVURNQ3y6xpAhAeVtW7h,
+    req_q: Efci9gNbD2XKAgWTTni25pDabUeGLFUXgmUZdo4tf3yB,
+    event_q: DQSrnxgtKWSj43ojyq8GgnAsdtxJezRxynmBMt4E2v6Z,
+    bids: 6oDT8SbjC1B1u8fWm5gJ77z61qpUmRGqSYecVAUFJoGi,
+    asks: CwPcKSbNQWTEdmMderzA6qQbgssuJP8B7BRUZjwXsFLX,
+    coin_vault: 8KAcv2g6H2PCLwKqkXVWzXfjcYmhHycWy8pxGGmXJoB9,
+    pc_vault: DKDAfag8yyG4cxfiaSDonCcDsu7oFVnkZ7Xcy9sR4LVz,
+    vault_signer_key: 85SuYkMJB7CV78dB24p7tnnKMBv7bcENJ89ddh4FnYJF,
+}
+msmUmQ7BEftBi5DLUL5Vwk46HcMGjVNdNuAJcX8vELy / Bbw9wHcUJE1xeCheooReZREqGuphWnCdv9ueNQLZDVm2
+Creating coin vault...
+Created account: CcBdvG6Yt11qxVxS45tZAVFSsFRZj6Ypx2SfZve6VjB1 ...
+Creating pc vault...
+Created account: 3NS5yGgPpAVGWkTj8x4n7FTNvX8M2CSz43At3FkDc4Bx ...
+Listing 7RcMcfiSCUYTwoPDw9YCoEvbndUs5WCVwuYaXfXwQUE4 ...
+Listed market: MarketPubkeys {
+    market: 7RcMcfiSCUYTwoPDw9YCoEvbndUs5WCVwuYaXfXwQUE4,
+    req_q: FLAgaoFS5Qoa17j4hk6RGmKq6ExGQnf4A7TEUDQ2Ro6T,
+    event_q: 9XoptAgAhZxyUyRcgrLbmvoewxVhQpprkazVAxH3gRpb,
+    bids: DnjMaVUiieeP2SL4HZxTazxBwM5gMFKssMoaUB9sYoHP,
+    asks: 5P2rwZTdcLjgU4vmr6U5Wy94TQvmxHkJfni2xEe1y2Su,
+    coin_vault: CcBdvG6Yt11qxVxS45tZAVFSsFRZj6Ypx2SfZve6VjB1,
+    pc_vault: 3NS5yGgPpAVGWkTj8x4n7FTNvX8M2CSz43At3FkDc4Bx,
+    vault_signer_key: DTdAnDXoGxKrLpoMUrnfsuXfVQN98meZmKdL98xofTuP,
+}
+msmUmQ7BEftBi5DLUL5Vwk46HcMGjVNdNuAJcX8vELy / SRmaJesFc3feD9WxoHg85oLA443b5g8G6qPnQgUvbhC
+Creating coin vault...
+Created account: Eau5mGnA1aZprfSEeL6k2Cmk4WksrTQSrwAauKAcqjB5 ...
+Creating pc vault...
+Created account: FJZA7dCUj6KeWKA6mYghpreE5PEYdKp9mFztf8fHmhCZ ...
+Listing YuNBBF8qsvyanUbNRSLzf53rkCLpsheUYQiQx944PRu ...
+Listed market: MarketPubkeys {
+    market: YuNBBF8qsvyanUbNRSLzf53rkCLpsheUYQiQx944PRu,
+    req_q: DhRhBWCmiyVj8vWPoNmTCvgjdtT8h3s3Ths2vnnjHHsS,
+    event_q: 651YtSUniqVma8SjEu68s5kaSdHUT2zpxGupixjm9kum,
+    bids: 4i37xkqXfxx8XZfrdpxbtBwJj1rRRa9t9Z69y5J5zw3Q,
+    asks: 2BkbC8YB35yjyeSx6EsHmLD7vj8pA3Fq1TqimSHQd7JS,
+    coin_vault: Eau5mGnA1aZprfSEeL6k2Cmk4WksrTQSrwAauKAcqjB5,
+    pc_vault: FJZA7dCUj6KeWKA6mYghpreE5PEYdKp9mFztf8fHmhCZ,
+    vault_signer_key: EqjW9XdorZMszGbvXewmgrzr5WG34jpQbr6tMgexeah,
+}
+skip
